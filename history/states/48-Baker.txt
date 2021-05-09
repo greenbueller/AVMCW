@@ -1,0 +1,9 @@
+state={
+	id=48
+	name="STATE_48"
+	provinces={
+		1800 1807 1834 1844 1884 1894 1916 
+	}
+	manpower=1
+	state_category=rural
+}

@@ -1,0 +1,16 @@
+state={
+	id=16
+	name="STATE_16"
+	provinces={
+		1056 1060 1061 1067 1070 
+	}
+	history = {
+		owner = BAH
+		add_core_of = BAH
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	manpower=1
+	state_category=rural
+}

@@ -1,0 +1,23 @@
+state={
+	id=18
+	name="STATE_18"
+	provinces={
+		1075 1088 1097 1105 1109 1115 1122 
+	}
+	history = {
+		owner = BAH
+		add_core_of = BAH
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			1088 10
+		}
+
+		victory_points = {
+			1105 7
+		}
+	}
+	manpower=1
+	state_category=rural
+}

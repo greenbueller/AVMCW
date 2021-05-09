@@ -1,0 +1,20 @@
+state={
+	id=10
+	name="STATE_10"
+	provinces={
+		1054 1055 
+	}
+	history = {
+		owner = BAH
+		add_core_of = BAH
+		buildings = {
+			infrastructure = 1
+		}
+
+		victory_points = {
+			1054 3
+		}
+	}
+	manpower=1
+	state_category=rural
+}

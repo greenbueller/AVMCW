@@ -1,0 +1,4 @@
+BAH = {
+	color = rgb { 100 150 160 }
+	color_ui = rgb { 100 150 160 }
+}

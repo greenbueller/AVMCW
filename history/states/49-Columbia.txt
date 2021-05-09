@@ -1,0 +1,9 @@
+state={
+	id=49
+	name="STATE_49"
+	provinces={
+		1674 1715 1727 1763 1769 1803 1810 1858 1865 1905 
+	}
+	manpower=1
+	state_category=rural
+}
