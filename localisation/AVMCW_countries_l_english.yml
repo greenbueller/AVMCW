@@ -1,0 +1,56 @@
+﻿l_english:
+ ASL:0 "Alabaman Second Legion"
+ ASL_DEF:0 "The Alabaman Second Legion"
+ ASL_ADJ:0 "Alabaman"
+ 
+ LSG:0 "Gadsen"
+ LSG_DEF:0 "The Libertarian State of Gadsen"
+ LSG_ADJ:0 "Gadsenites"
+
+ THR:0 "Tallahasse Republic"
+ THR_DEF:0 "The Tallahasse Republic"
+ THR_ADJ:0 "Tallahassen"
+
+ LOC:0 "Live Oak Community"
+ LOC_DEF:0 "The Live Oak Senior Living Community"
+ LOC_ADJ:0 "Senior"
+
+ ROF:0 "Florida"
+ ROF_DEF:0 "The Republic of Florida"
+ ROF_ADJ:0 "Floridian"
+
+ FTA:0 "Free Thinkers"
+ FTA_DEF:0 "The Free Thinkers of America"
+ FTA_ADJ:0 "American"
+
+ WRT:0 "Worker's Republic of Tampa"
+ WRT_DEF:0 "The Worker's Republic of Tampa"
+ WRT_ADJ:0 "Tampan"
+
+ DAY:0 "Daytona State"
+ DAY_DEF:0 "the Daytona State"
+ DAY_ADJ:0 "Daytonan"
+
+ DIS:0 "Disney Corporatocracy"
+ DIS_DEF:0 "The Disney Independent State"
+ DIS_ADJ:0 "Disney"
+
+ FRT:0 "Fort Myers"
+ FRT_DEF:0 "US Command in Fort Myers"
+ FRT_ADJ:0 "Myer"
+
+ ISO:0 "Immigrant State"
+ ISO_DEF:0 "The Immigrant State of Okeecobee"
+ ISO_ADJ:0 "Immigrant"
+
+ MIA:0 "Miami-Dade"
+ MIA_DEF:0 "The Free County of Miami-Dade"
+ MIA_ADJ:0 "Miamian"
+
+ GAT:0 "Gator Empire"
+ GAT_DEF:0 "The Gator Empire"
+ GAT_ADJ:0 "Gator"
+
+ PRK:0 "Pirate Republic of The Keys"
+ PRK_DEF:0 "The Pirate Republic of The Keys"
+ PRK_ADJ:0 "Pirate"

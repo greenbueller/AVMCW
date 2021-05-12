@@ -4,6 +4,13 @@ state={
 	provinces={
 		1499 1523 1529 1558 1561 1584 1590 1631 1637 1649 1663 1694 1695 1699 1741 1742 1754 1785 1787 1797 1823 1831 1862 1883 1888 1892 1901 1911 
 	}
+	history = {
+		owner = THR
+		add_core_of = THR
+		buildings = {
+			infrastructure = 5
+		}
+	}
 	manpower=1
 	state_category=rural
 }

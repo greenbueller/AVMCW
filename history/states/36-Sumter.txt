@@ -4,6 +4,13 @@ state={
 	provinces={
 		1306 1319 1326 1328 1336 1354 1365 1375 1380 
 	}
+	history = {
+		owner = WRT
+		add_core_of = WRT
+		buildings = {
+			infrastructure = 5
+		}
+	}
 	manpower=1
 	state_category=rural
 }

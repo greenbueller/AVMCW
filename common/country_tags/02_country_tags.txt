@@ -1,1 +1,16 @@
 BAH = "countries/Bahamas.txt"
+
+ASL = "countries/Alabama.txt" # Alabama Second Legion
+LSG = "countries/Gadsen.txt" # Libertarian State of Gadsen (Alabama Puppet)
+THR = "countries/Tallahasse.txt" # Tallahasse Republic
+LOC = "countries/Live Oak.txt" # Live Oak Community
+ROF = "countries/Florida.txt" # Republic of Florida (State Gov)
+FTA = "countries/Free Thinkers.txt" # Free Thinkers of America
+WRT = "countries/Tampa.txt" # Worker's Republic of Tampa
+DAY = "countries/Daytona.txt" # Daytona State
+DIS = "countries/Disney.txt" # Disney Corp
+FRT = "countries/Fort Myers.txt" # Fort Myers Command
+ISO = "countries/Okeechobee.txt" # Immigrant State
+MIA = "countries/Miami-Dade.txt" # Free County of Miami
+GAT = "countries/Gators.txt" # Gator Empire
+PRK = "countries/Keys.txt" # Pirate Republic of the Keys 

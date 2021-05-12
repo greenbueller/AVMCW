@@ -4,6 +4,13 @@ state={
 	provinces={
 		1410 1412 1425 1427 1433 1435 1436 1439 1444 1446 1449 1452 1453 1455 1458 1463 1467 1469 1475 1477 1478 1485 1495 1500 1514 1519 
 	}
+	history = {
+		owner = FTA
+		add_core_of = FTA
+		buildings = {
+			infrastructure = 5
+		}
+	}
 	manpower=1
 	state_category=rural
 }

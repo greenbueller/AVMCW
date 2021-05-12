@@ -2,3 +2,74 @@ BAH = {
 	color = rgb { 100 150 160 }
 	color_ui = rgb { 100 150 160 }
 }
+
+
+ASL = {
+	color = rgb { 169 35 57 }
+	color_ui = rgb { 169 35 57 }
+}
+
+LSG = {
+	color = rgb { 195 136 146 }
+	color_ui = rgb { 195 136 146 }
+}
+
+THR = {
+	color = rgb { 52 200 139 }
+	color_ui = rgb { 52 200 139 }
+}
+
+LOC = {
+	color = rgb { 222 95 133 }
+	color_ui = rgb { 222 95 133 }
+}
+
+ROF = {
+	color = rgb { 50 102 130 }
+	color_ui = rgb { 50 102 130 }
+}
+
+FTA = {
+	color = rgb { 69 30 69 }
+	color_ui = rgb { 69 30 69 }
+}
+
+WRT = {
+	color = rgb { 214 128 96 }
+	color_ui = rgb { 214 128 96 }
+}
+
+DAY = {
+	color = rgb { 91 59 24 }
+	color_ui = rgb { 91 59 24 }
+}
+
+DIS = {
+	color = rgb { 239 239 239 }
+	color_ui = rgb { 239 239 239 }
+}
+
+FRT = {
+	color = rgb { 227 232 125 }
+	color_ui = rgb { 227 232 125 }
+}
+
+ISO = {
+	color = rgb { 216 134 222 }
+	color_ui = rgb { 216 134 222 }
+}
+
+MIA = {
+	color = rgb { 56 174 239 }
+	color_ui = rgb { 56 174 239 }
+}
+
+GAT = {
+	color = rgb { 37 81 36 }
+	color_ui = rgb { 37 81 36 }
+}
+
+PRK = {
+	color = rgb { 55 55 55 }
+	color_ui = rgb { 55 55 55 }
+}

@@ -4,6 +4,13 @@ state={
 	provinces={
 		1629 1630 1642 1675 1686 1688 1692 1725 1731 1780 1782 1827 
 	}
+	history = {
+		owner = LSG
+		add_core_of = LSG
+		buildings = {
+			infrastructure = 5
+		}
+	}
 	manpower=1
 	state_category=rural
 }

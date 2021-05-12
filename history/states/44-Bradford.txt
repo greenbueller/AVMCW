@@ -4,6 +4,13 @@ state={
 	provinces={
 		1597 1641 1669 1676 1683 1716 1726 1751 
 	}
+	history = {
+		owner = ROF
+		add_core_of = ROF
+		buildings = {
+			infrastructure = 5
+		}
+	}
 	manpower=1
 	state_category=rural
 }

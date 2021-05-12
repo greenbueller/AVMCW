@@ -4,6 +4,13 @@ state={
 	provinces={
 		1112 1117 1120 1124 1126 1128 1131 1133 1138 1139 1142 1144 1147 1151 1152 1153 1156 1160 1162 1169 
 	}
+	history = {
+		owner = MIA
+		add_core_of = MIA
+		buildings = {
+			infrastructure = 5
+		}
+	}
 	manpower=1
 	state_category=rural
 }

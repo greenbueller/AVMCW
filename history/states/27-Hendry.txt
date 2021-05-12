@@ -4,6 +4,13 @@ state={
 	provinces={
 		1159 1161 1163 1171 1172 1174 1183 1187 1188 1193 1195 1209 
 	}
+	history = {
+		owner = ISO
+		add_core_of = ISO
+		buildings = {
+			infrastructure = 5
+		}
+	}
 	manpower=1
 	state_category=rural
 }

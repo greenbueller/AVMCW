@@ -4,6 +4,13 @@ state={
 	provinces={
 		1696 1738 1774 1775 1792 1815 1828 1832 1842 1848 1851 1871 1874 1880 1889 1903 1914 
 	}
+	history = {
+		owner = LOC
+		add_core_of = LOC
+		buildings = {
+			infrastructure = 5
+		}
+	}
 	manpower=1
 	state_category=rural
 }

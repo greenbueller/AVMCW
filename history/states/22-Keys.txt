@@ -4,6 +4,13 @@ state={
 	provinces={
 		1068 1073 1074 1076 1077 1078 1082 1083 1084 
 	}
+	history = {
+		owner = PRK
+		add_core_of = PRK
+		buildings = {
+			infrastructure = 5
+		}
+	}
 	manpower=1
 	state_category=rural
 }
