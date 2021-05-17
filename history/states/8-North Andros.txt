@@ -15,6 +15,6 @@ state={
 			1090 1
 		}
 	}
-	manpower=1
+	manpower=7490
 	state_category=rural
 }

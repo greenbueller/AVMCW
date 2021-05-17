@@ -12,6 +12,6 @@ state={
 			infrastructure = 1
 		}
 	}
-	manpower=1
+	manpower=9578
 	state_category=rural
 }
